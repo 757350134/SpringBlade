@@ -24,5 +24,7 @@ blade:
         location: /blade-desk
       - name: 系统模块
         location: /blade-system
+      - name: alphx
+        location: /alpha
 
 
